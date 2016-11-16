@@ -1,9 +1,9 @@
 # Tutorial on genome-scale metabolic networks modelling and Flux Balance Analysis (FBA) using COBRApy and Escher in jupyter ipython notebook
 
-Author: Marc Weber  
-Date: March 2016  
-Affiliation: Center for Genomic Regulation (CRG), Barcelona, Spain.
-Notes: This tutorial was created for the course "Whole-cell modeling", taking place at CRG, Barcelona, April 3-8, 2016.
+_Author_: Marc Weber  
+_Date_: March 2016  
+_Affiliation_: Center for Genomic Regulation (CRG), Barcelona, Spain.
+_Notes_: This tutorial was created for the course "Whole-cell modeling", taking place at CRG, Barcelona, April 3-8, 2016.
 
 In this tutorial we will learn the basic concepts of flux balance analysis (FBA) and its use in genome-scale metabolic networks of E. coli.
 
@@ -23,10 +23,6 @@ Python packages:
 + python-libsbml
 + cobra
 + escher
-
-## License
-
-
 
 ## References
 
